@@ -1,6 +1,6 @@
 ### Hi there, I'm Derya 👋
 
-## I'm currently working at FREE NOW as a junior backend software engineer (and graduated 2019 with a bachelor in Computer Engineering)
+## I'm currently working at FREE NOW as a backend software engineer (and graduated 2019 with a bachelor in Computer Engineering)
 
 ## (Coding related stuff) In my free time ...
 - 🔭 I’m currently working on a frontend and backend for a plant manager to let you manage all your houseplants
