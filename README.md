@@ -4,7 +4,7 @@
 
 ## (Coding related stuff) In my free time ...
 - 🔭 I’m currently working on a frontend and backend for a plant manager to let you manage all your houseplants
-- 🌱 I’m currently learning more: vue.js, kotlin and covering different use cases of redis
+- 🌱 I’m currently learning more: python and covering different use cases of redis
 - 👩‍🏫 I'm trying to do more side projects to learn more outside of the office environment
 
 
