@@ -1,6 +1,6 @@
 ### Hi there, I'm Derya 👋
 
-## I'm currently working at FREE NOW as a backend software engineer (and graduated 2019 with a bachelor in Computer Engineering)
+## I'm currently working at FREE NOW as a senior backend software engineer (and graduated 2019 with a bachelor in Computer Engineering)
 
 ## (Coding related stuff) In my free time ...
 - 🔭 I’m currently working on a frontend and backend for a plant manager to let you manage all your houseplants
@@ -22,7 +22,6 @@
 
 ### frameworks I use
 <img align="left" alt="spring-boot" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
-<img align="left" alt="vue.js" width=26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 
 <br />
 
